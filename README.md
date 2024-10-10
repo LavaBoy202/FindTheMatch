@@ -9,7 +9,6 @@ The Card Matching Game is an engaging and fun card game developed in TypeScript.
 - **Match Pairs:** Flip cards to find and match pairs.
 - **User-Friendly Interface:** Simple and intuitive design for players of all ages.
 - **Dynamic Levels:** Adjust the number of pairs for varying difficulty levels.
-- **Score Tracking:** Keep track of your matches and score.
 
 ## Getting Started
 
